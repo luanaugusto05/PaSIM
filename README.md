@@ -1,4 +1,4 @@
-# Public Dashboard Package
+# PaSIM
 
 This repository contains an R package called "PaSIM" that provides functions for accessing and processing data from DATASUS (Department of Informatics of the Unified Health System) and updating the corresponding Power BI dashboard models, all in an automated manner.
 
